@@ -2,7 +2,6 @@
 
 A four-page Excel dashboard that compares paid campaign performance across **Facebook, Instagram and Pinterest**, from March to November.
 
-overview.png
 ## Business Question
 
 Where should the marketing budget go? The dashboard answers three things:
@@ -53,9 +52,7 @@ Where should the marketing budget go? The dashboard answers three things:
 | **Instagram Campaign Analysis** | Same layout as Facebook |
 | **Pinterest Campaign Analysis** | Same layout as Facebook |
 
-![Facebook Campaign Analysis](images/facebook-campaign-analysis.png)
-![Instagram Campaign Analysis](images/instagram-campaign-analysis.png)
-![Pinterest Campaign Analysis](images/pinterest-campaign-analysis.png)
+
 
 ## Tools and Techniques
 
