@@ -55,7 +55,7 @@ Where should the marketing budget go? The dashboard answers three questions:
 ## Limitations
 
 - ROAS is based on conversion value, not profit, so product margins are not included.
-- The data covers March to November, and [write which months are partial, e.g., March and November] are partial, so comparisons involving those months should be read with care.
+- The data covers March to November; January, February, and December are not included, so the analysis does not cover the full calendar year.
 - Pinterest's high ROAS comes from a small budget and may not hold at higher spend.
 - Values in the dataset were modified for confidentiality, so absolute figures should not be read as real business results. The comparisons between channels, months, and cities are what the analysis relies on.
 ## Dashboard Pages
